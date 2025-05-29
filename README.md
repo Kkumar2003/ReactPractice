@@ -9,7 +9,7 @@ This is a basic React project built to practice using **React Router** for clien
 - ✅ Multi-page navigation using React Router 
 - ✅ Pages: Home, About, Contact, Skills and NotFound
 - ✅ Navigation menu with `NavLink`
-- ✅ Clean, UI using Tailwind
+- ✅ Clean,Responsive Practice of UI using Tailwind
 - ✅ 404 route handling for undefined URLs
 
 ---
