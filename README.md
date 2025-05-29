@@ -24,6 +24,6 @@ This is a basic React project built to practice using **React Router** for clien
 
 ## 🚀 Live Demo
 
-[react-practice-sand.vercel.app]
+[https://react-practice-sand.vercel.app/]
 
 
