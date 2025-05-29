@@ -9,7 +9,7 @@ This is a basic React project built to practice using **React Router** for clien
 - ✅ Multi-page navigation using React Router 
 - ✅ Pages: Home, About, Contact, Skills and NotFound
 - ✅ Navigation menu with `NavLink`
-- ✅ Clean, responsive UI using Tailwind
+- ✅ Clean, UI using Tailwind
 - ✅ 404 route handling for undefined URLs
 
 ---
@@ -24,6 +24,6 @@ This is a basic React project built to practice using **React Router** for clien
 
 ## 🚀 Live Demo
 
-[Click here to view the live project]()
+[react-practice-sand.vercel.app]
 
 
